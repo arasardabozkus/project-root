@@ -1,0 +1,45 @@
+{"Nav":{
+  "Home":"Ana Sayfa",
+  "About":"Hakk\u0131mda",
+  "Expertise":"Uzmanl\u0131k",
+  "Services":"Hizmetlerim",
+  "Portfolio":"Portfolyo",
+  "Blog":"Blog",
+  "Contact":"\u0130leti\u015fim"
+},
+  "Home":{
+    "Profession":"\u0130n\u015faat M\u00fchendisi",
+    "AboutMeButton":"Hakk\u0131mda"},
+  "About":{
+    "Myself":"Beni Tan\u0131y\u0131n",
+    "Skills":"Yeteneklerim"},
+  "Expertise":{
+    "Set":"Neler Yapabilirim?",
+    "Expertise":"Uzmanl\u0131klar\u0131m"
+  },
+  "Services":{
+    "WhatIOffer":"Neler Sunabilirim?",
+    "Services":"Hizmetler"},
+  "Work2Gether":{
+    "W2G":"Benimle \u00c7al\u0131\u015fabilirsiniz!",
+    "HireMe":"\u0130leti\u015fime Ge\u00e7in"},
+  "Portfolio":{
+    "Works":"\u0130\u015flerim",
+    "Portfolio":"Portfolyo"},
+  "Testimonial":{
+    "TestimonialH":"Referanslar",
+    "Title":"Tak\u0131m Arkada\u015flar\u0131m\u0131n D\u00fc\u015f\u00fcnceleri"},
+  "Blog":{
+    "News":"G\u00fcncel Haberler",
+    "Title":"Blog"
+  },
+  "GetInTouch":{
+    "Header":"\u0130leti\u015fim",
+    "Title":"\u0130leti\u015fime ge\u00e7in",
+    "YourName":"\u0130sminiz",
+    "YourMail":"E-Mailiniz",
+    "YourSubject":"Konu",
+    "YourMessage":"Mesaj\u0131n\u0131z",
+    "SendMessage":"G\u00f6nder"
+  }
+}
